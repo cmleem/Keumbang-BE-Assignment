@@ -7,6 +7,11 @@
 
 <br>
 
+## ERD
+![Untitled](https://github.com/user-attachments/assets/77081655-e588-418f-9c7e-fae19d4b6c6b)
+
+<br>
+
 ## 폴더 설명
 
 - keumbang-auth: 인증 서버
@@ -42,4 +47,14 @@
    이 때, 명령은 반드시 각 디렉토리의 최상단에서 실행합니다.
 
 <br>
+
+## Swagger API
+
+빌드 및 실행 후 `http://[서버 주소]:[서버 포트]/swagger-ui`로 접속하면 API 명세 확인 및 테스트가 가능합니다.
+
+<br>
+
+## postman 테스트
+
+[postman 테스트 링크](https://documenter.getpostman.com/view/33252989/2sAXqmB5Qc)
 
