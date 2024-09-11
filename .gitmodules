@@ -1,0 +1,6 @@
+[submodule "keumbang-resource"]
+	path = keumbang-resource
+	url = https://github.com/cmleem/keumbang-resource.git
+[submodule "keumbang-auth"]
+	path = keumbang-auth
+	url = https://github.com/cmleem/keumbang-auth.git
